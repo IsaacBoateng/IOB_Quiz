@@ -2,5 +2,5 @@
 <resources>
     <dimen name="default_padding">16dp</dimen>
     <dimen name="default_margin">32dp</dimen>
-    <dimen name="textView_button">64dp</dimen>
+    <dimen name="textView_button">80dp</dimen>
 </resources>
